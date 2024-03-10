@@ -1,3 +1,5 @@
-# PDF-query-with-Langchain
-add graph for the structure
-explain vector search
+## Setup
+1- Create .env file where you store ASTRA_DB_APPLICATION_TOKEN, OPENAI_API_KEY and ASTRA_DB_ID
+2- Create a database using dataStax
+
+
